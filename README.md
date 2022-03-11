@@ -1,4 +1,4 @@
-# ENGR_1181
+# Matlab_Battleship
 Matlab Battleship with a smart AI
 
 To Play:
